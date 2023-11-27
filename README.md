@@ -5,8 +5,12 @@
   <br>
 </h1>
 
-<h4 align="center">Use Swift Play with Shell in Reactive X Way</h4>
+<h4 align="center">RxShell: Use Swift Play with Shell in Reactive X Way</h4>
 
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FCmST0us%2FRxShell%2Fbadge%3Ftype%3Dswift-versions">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FCmST0us%2FRxShell%2Fbadge%3Ftype%3Dplatforms">
+</p>
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
